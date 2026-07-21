@@ -27,13 +27,17 @@ Here are some ideas to get you started:
 🎓 Final-Year **B.Tech in Artificial Intelligence & Machine Learning** student at **SRM University AP**.
 
 I chose **AI & ML** because I enjoy solving real-world problems using technology. Software development gives me the opportunity to transform ideas into impactful applications, while AI helps make those applications smarter and more efficient.
+I'm passionate about building products that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and creating projects that are useful and user-friendly
+
+Currently, I'm strengthening my full-stack development skills by working with Java, Spring Boot, React, SQL, and REST APIs. I'm also practicing Data Structures and Algorithms regularly to improve my problem-solving abilities.
+
 
 🚀 My goal is to become a **Full Stack Developer** and build scalable AI-powered applications that solve meaningful real-world problems.
 
-- 🌱 Currently learning **Microservices, System Design, Generative AI, Machine Learning & DSA**
-- 💬 Ask me about **Java, React, Node.js, Express.js, MongoDB**
+- 🌱 Currently learning Microservices, System Design, Generative AI, Machine Learning & DSA
+- 💬 Ask me about  Java, React, Node.js, Express.js, MongoDB,AI/ML,OS,CN
 - 📍 Guntur, Andhra Pradesh, India
-- ☕ **Coffee + Code = My Happy Place**
+- ☕ Coffee + Code = My Happy Place
 
 ---
 

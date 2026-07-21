@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 Final-Year **B.Tech in Artificial Intelligence & Machine Learning** student at **SRM University AP**.
 
@@ -67,7 +67,7 @@ I chose **AI & ML** because I enjoy solving real-world problems using technology
 
 # 💻 Tech Stack
 
-## 🚀 Programming Languages
+##  Programming Languages
 
 <p>
 
@@ -87,7 +87,7 @@ I chose **AI & ML** because I enjoy solving real-world problems using technology
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 
 <p>
 
@@ -157,7 +157,7 @@ I chose **AI & ML** because I enjoy solving real-world problems using technology
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🛒 Full Stack E-Commerce Application
 

@@ -318,10 +318,5 @@ https://github.com/anutejaswini/edunet-portfolio
 If you like my work, don't forget to ⭐ my repositories.
 
 </div>
-- 👯 I’m looking to collaborate on Full-Stack Development, AI/ML projects, Open Source contributions, and innovative software solutions.
-- 🤔 I’m looking for help with Advanced System Design, Cloud Computing (AWS/Azure), DevOps, and scalable backend architecture.
-- 💬 Ask me about Java, React.js, Node.js, MongoDB, REST APIs, Data Structures & Algorithms, and Full-Stack Development.
-- 📫 How to reach me: Connect with me on LinkedIn, open an issue on GitHub, or reach out via email.
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact: I enjoy turning ideas into real-world applications and believe that every project is an opportunity to learn something new.
+
 -->
